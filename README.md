@@ -11,4 +11,7 @@ You are welcome to ask for more icons.
 ## Preview:
 
 ### Accordion
-![](Resources/Public/Icons/Content/Accordion.svg?raw=true)
+
+![](Resources/Public/Icons/Content/Accordion.png)
+
+![](Previews/Accordion.png)
