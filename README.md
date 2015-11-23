@@ -15,3 +15,11 @@ You are welcome to ask for more icons.
 ![](Resources/Public/Icons/Content/Accordion.png)
 
 ![](Previews/Accordion.png)
+
+
+## Use:
+### fluidtypo3 flux:
+
+```
+<flux:form.option name="icon" value="/typo3conf/ext/content_element_icons/Resources/Public/Icons/Content/Accordion.svg" />
+```
