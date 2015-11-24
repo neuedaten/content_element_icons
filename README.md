@@ -12,10 +12,17 @@ You are welcome to ask for more icons.
 
 ### Accordion
 
-![](Resources/Public/Icons/Content/Accordion.png)
-
 ![](Previews/Accordion.png)
 
+### Carousel / Slider
+
+![](Previews/Carousel.png)
+
+![](Previews/Carousel-Image.png) Carousel with Image
+
+![](Previews/Carousel-Text.png) Carousel with Text
+
+![](Previews/Carousel-Video.png) Carousel with Video
 
 ## Use:
 ### fluidtypo3 flux:
