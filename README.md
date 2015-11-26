@@ -6,6 +6,8 @@ You can easily use them with your favorite tools for creating custom content ele
 
 The icons are available as SVGs for TYPO3 7.x and as PNGs for older versions.
 
+The files are stored in Resources/Public/Icons/Content
+
 You are welcome to ask for more icons.
 
 ## Preview:
@@ -13,6 +15,12 @@ You are welcome to ask for more icons.
 ### Accordion
 
 ![](Previews/Accordion.png)
+
+### Boxes
+
+![](Previews/Box.png)
+![](Previews/Boxes-50-50.png)
+![](Previews/Boxes-33-33-33.png)
 
 ### Carousel / Slider
 
@@ -22,7 +30,17 @@ You are welcome to ask for more icons.
 
 ![](Previews/Carousel-Text.png) Carousel with Text
 
+
 ![](Previews/Carousel-Video.png) Carousel with Video
+
+### Columns
+
+![](Previews/Columns-50-50.png)
+![](Previews/Columns-33-33-33.png)
+![](Previews/Columns-67-33.png)
+![](Previews/Columns-33-67.png)
+![](Previews/Columns-Horizontal-50-50.png)
+![](Previews/Columns-Horizontal-33-33-33.png)
 
 ## Use:
 ### fluidtypo3 flux:
