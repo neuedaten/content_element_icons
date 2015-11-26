@@ -46,6 +46,14 @@ You are welcome to ask for more icons.
 
 ![](Previews/Map.png)
 
+### Person
+
+![](Previews/Person-Gray.png)
+![](Previews/Person-Orange.png)
+![](Previews/Person-Green.png)
+![](Previews/Person-Blue.png)
+![](Previews/Person-Red.png)
+
 
 ## Use:
 ### fluidtypo3 flux:
