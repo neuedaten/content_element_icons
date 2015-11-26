@@ -42,6 +42,11 @@ You are welcome to ask for more icons.
 ![](Previews/Columns-Horizontal-50-50.png)
 ![](Previews/Columns-Horizontal-33-33-33.png)
 
+### Map
+
+![](Previews/Map.png)
+
+
 ## Use:
 ### fluidtypo3 flux:
 
